@@ -1,0 +1,7 @@
+{
+  "name": "Ayush & Ekanshi Wedding Invitation",
+  "description": "A premium, elegant digital wedding invitation for Ayush and Ekanshi, featuring event details, countdown, gallery, and an AI-powered blessing wall.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
